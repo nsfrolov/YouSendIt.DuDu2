@@ -3,4 +3,4 @@
 </div>
 
 ## YouSendIt
-A YouSendIt clone from 2004 that runs on IE 5.0. To work, you need to enable the **GD** graphics module in PHP.
+YouSendIt - это клон одноименного сайта из 2005 года, работающий в IE 5.0. Для работы скрипта необходим хостинг с PHP и поддержкой **GD** библиотеки.
