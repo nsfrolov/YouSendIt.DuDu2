@@ -6,10 +6,10 @@
 define('SMTP_HOST', 'smtp.mail.ru');
 define('SMTP_PORT', 465);
 define('SMTP_SECURE', 'ssl'); // 'ssl', 'tls', 'none'
-define('SMTP_USERNAME', 'mail@dudu2.ru');
-define('SMTP_PASSWORD', 'QYDASG1DT3J5p25bQZWd');
-define('SMTP_FROM_EMAIL', 'mail@dudu2.ru');
-define('SMTP_FROM_NAME', 'YouSendIt.ДуДу2');
+define('SMTP_USERNAME', 'mymail@mail.ru');
+define('SMTP_PASSWORD', 'ПАРОЛЬ_ПРИЛОЖЕНИЯ');
+define('SMTP_FROM_EMAIL', 'mymail@mail.ru');
+define('SMTP_FROM_NAME', 'YouSendIt');
 
 // -------------------------------------------------------------------------------------------------
 // Настройка URL (ЧПУ).
