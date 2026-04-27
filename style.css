@@ -1,0 +1,213 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #404040;
+	margin: 10px;
+}
+td {
+	font-size: 12px;
+	color: #404040;
+}
+table.HeaderUtilities {
+	background-image: url(images/utilities_right.gif);
+	height: 25px;
+}
+td.HeaderUtilities {
+	padding: 5px;
+	font-size: 10px;
+}
+td.HeaderNav {
+	padding: 10px;
+	font-size: 12px;
+	text-align: right;
+	vertical-align: bottom;
+	color: #FFFFFF;
+
+
+}
+table.HeaderNav {
+
+	background-image: url(images/header_bg.gif);
+	height: 50px;
+}
+td.Footer {
+	background-image: url(images/footer_bg.gif);
+	vertical-align: top;
+	padding: 5px 10px;
+	height: 30px;
+	font-size: 10px;
+	color: #FFFFFF;
+}
+a.Footer:link {
+	color: #FFFFFF;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+a.Footer:active {
+	color: #848A7B;
+	font-weight: bold;
+
+}
+a.Footer:visited {
+	color: #FFFFFF;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+a.Footer:hover {
+	color: #848A7B;
+	font-weight: bold;
+
+}
+a.HeaderNav:link {
+	color: #FFFFFF;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+a.HeaderNav:visited {
+	color: #FFFFFF;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+a.HeaderNav:active {
+	color: #848A7B;
+	text-decoration: none;
+	font-weight: bold;
+
+
+}
+a.HeaderNav:hover {
+	color: #848A7B;
+	text-decoration: none;
+	font-weight: bold;
+
+
+}
+a.HeaderUtilities:link {
+	color: #000000;
+	text-decoration: underline;
+	font-size: 10px;
+
+}
+a.HeaderUtilities:visited {
+	color: #000000;
+	text-decoration: underline;
+	font-size: 10px;
+}
+a.HeaderUtilities:active {
+	color: #FFFFFF;
+	font-size: 10px;
+	text-decoration: none;
+
+}
+a.HeaderUtilities:hover {
+	color: #FFFFFF;
+	font-size: 10px;
+	text-decoration: none;
+
+}
+td.Page {
+	font-size: 75%;
+	color: #404040;
+	background-color: #FFFFFF;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 40px;
+	padding-left: 25px;
+
+}
+p.PageTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #84B6CE;
+	padding-bottom: 3px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #C0C0C0;
+
+}
+p.PageNav {
+	font-size: 12px;
+	font-weight: bold;
+	color: #848A7B;
+}
+a.PageNav:link {
+	color: #426984;
+	text-decoration: underline;
+}
+a.PageNav:visited {
+	color: #426984;
+	text-decoration: underline;
+}
+a.PageNav:active {
+	color: #848A7B;
+	text-decoration: none;
+
+}
+a.PageNav:hover {
+	color: #848A7B;
+	text-decoration: none;
+
+}
+li {
+	list-style-type: none;
+	list-style-position: outside;
+	list-style-image: url(images/bullet.gif);
+
+
+}
+table.Content {
+	padding-right: 25px;
+	padding-left: 25px;
+
+}
+a:link {
+	color: #426984;
+	text-decoration: underline;
+}
+a:visited {
+	color: #426984;
+	text-decoration: underline;
+}
+a:active {
+	color: 84B6CE;
+	text-decoration: none;
+
+}
+a:hover {
+	color: 84B6CE;
+	text-decoration: none;
+
+}
+input.MaxWidth {
+	width: 100%;
+}
+textarea.MaxWidth {
+	width: 100%;
+}
+td.Label {
+	color: #848A7B;
+	font-weight: normal;
+}
+h4 {
+	color: #426984;
+}
+td.Instructions {
+	font-size: 66%;
+	color: #848A7B;
+
+}
+.Subscript {
+
+	font-size: 75%;
+}
+td.Feature {
+	background-image: url(images/homepage/feature_bg.gif);
+}
+p.Code {
+	font-family: "Courier New", Courier, mono;
+}
