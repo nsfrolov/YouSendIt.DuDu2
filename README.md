@@ -1,5 +1,5 @@
 <div align="center">
-<img src="screenshot.png" alt="Screenshot." width="800" height="600">
+<img src="screenshot.png" alt="Screenshot." width="760" height="818">
 </div>
 
 ## YouSendIt
